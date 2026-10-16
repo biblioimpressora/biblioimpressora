@@ -29,6 +29,22 @@ O projeto é desenvolvido em parceria com a Biblioteca Municipal de Camaquã e a
 
 As tecnologias, os componentes e as ferramentas utilizados serão documentados conforme o desenvolvimento do projeto.
 
+## Manuais de referência
+
+Esta seção reúne manuais e materiais técnicos consultados para auxiliar no estudo do funcionamento das impressoras térmicas e no desenvolvimento da Biblioimpressora.
+
+### Jetway JP-800
+
+* [Manual de Comandos da JP-800 (PDF)](https://www.jetway.com.br/wp-content/uploads/2019/11/manual_de_comandos_Impressora_Jetway_JP-800.pdf)
+* [Manual do Utilitário da JP-800 (PDF)](https://www.jetway.com.br/wp-content/uploads/2019/11/Manual_utilitario_impressora_Jetway_JP-800.pdf)
+* [Página da Jetway — JP-800](https://www.jetway.com.br/produtos/drivers-produto/?produto=213&produto-jetway=JP-800) — página em que os manuais foram encontrados.
+
+### Epson TM-T88V
+
+* [Manual de referência da Epson TM-T88V (PDF)](https://files.support.epson.com/pdf/pos/bulk/tmt88v_trg_reve.pdf) — material complementar de consulta sobre impressoras térmicas.
+
+**Observação:** os documentos são referências para estudo. As instruções e os comandos devem ser conferidos de acordo com o modelo de impressora utilizado no projeto.
+
 ## Como começar
 
 As instruções de instalação e execução serão adicionadas após a definição e a validação do ambiente de desenvolvimento.
