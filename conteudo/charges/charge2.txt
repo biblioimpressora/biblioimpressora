@@ -1,0 +1,5 @@
+CHARGE DE TESTE 2
+
+PERSONAGEM 1: Estou estudando programação!
+PERSONAGEM 2: E já sabe fazer tudo?
+PERSONAGEM 1: Claro! Já sei pesquisar como fazer!
