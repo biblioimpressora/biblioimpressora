@@ -1,0 +1,5 @@
+CHARGE DE TESTE 3
+
+PERSONAGEM 1: Meu computador está muito lento!
+PERSONAGEM 2: Quantos programas estão abertos?
+PERSONAGEM 1: Só os 37 que preciso para trabalhar!
