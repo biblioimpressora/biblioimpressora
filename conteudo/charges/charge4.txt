@@ -1,0 +1,5 @@
+CHARGE DE TESTE 4
+
+PERSONAGEM 1: Finalmente terminei meu código!
+PERSONAGEM 2: E já testou?
+PERSONAGEM 1: Testar? Achei que terminar de escrever era suficiente!
